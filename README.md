@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ![logo](https://github.com/Amit821061/Amit821061/blob/main/Amit%20Kumar%20Sah%20banner.png)
 <h1 align="center">Hi 👋, I'm Amit Kumar Sah</h1>
